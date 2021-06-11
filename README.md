@@ -1,12 +1,15 @@
-# Project Title
+Module 2 - Challenge 2 : Loan Qualifier
+=======================================
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This application was designed with the goal of determining what loans are available to a prospective loan customer. 
 
 ---
 
 ## Technologies
 
 Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+
+This application was programmed in Python, and utilized the Fire and Questionary libraries. The Pytest framework was used for testing.   
 
 ---
 
@@ -19,6 +22,11 @@ In this section, you should include detailed installation notes containing code 
 ## Examples
 
 This section should include screenshots, code blocks, or animations showing how your project works.
+
+```python
+s = "Python syntax highlighting"
+print s
+```
 
 ---
 
