@@ -110,7 +110,6 @@ def save_qualifying_loans(qualifying_loans):
     
     Args:
         
-
     """ 
 ##  Per the acceptance criteria, having no qualifying loans will quit the program. 
 
